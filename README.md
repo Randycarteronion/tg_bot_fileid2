@@ -1,6 +1,5 @@
 
-    </style>
-    <title>GitHub README</title>
+
 </head>
 <body>
     <h1>tg_bot_fileid2</h1>
