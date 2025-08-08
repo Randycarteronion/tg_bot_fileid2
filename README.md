@@ -1,0 +1,2 @@
+# tg_bot_fileid2
+A robot developed by RandCater for obtaining file_id 由randcarter开发的用于使用TGurl获取file_ID的自动机 目前功能有限 后续将完善功能与tdl合用以保存受限制内容 功能完整后将使用cpp重写以提高效率
