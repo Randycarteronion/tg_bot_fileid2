@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: "SimSun", "宋体", serif;
-            font-size: 10pt; /* 五号字体 */
-        }
+
     </style>
     <title>GitHub README</title>
 </head>
